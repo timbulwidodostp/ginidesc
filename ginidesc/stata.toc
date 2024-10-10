@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ginidesc Gini index, with within- and between-group inequality decomposition Use ginidesc With STATA 18
