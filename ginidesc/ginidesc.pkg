@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'ginidesc': Gini index, with within- and between-group inequality decomposition Use ginidesc With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ginidesc.ado
+f ginidesc.hlp
+f ineqdeco.ado
+f ineqdeco.hlp
