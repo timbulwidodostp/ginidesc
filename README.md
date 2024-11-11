@@ -1,6 +1,8 @@
 # ginidesc
 Gini index, with within- and between-group inequality decomposition Use ginidesc With STATA 18
 
+https://www.youtube.com/watch?v=zwjauKRlGu0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
